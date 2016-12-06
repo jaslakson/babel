@@ -2,7 +2,6 @@
 
 > Babel compiler core.
 
-
 ```javascript
 var babel = require("babel-core");
 import { transform } from 'babel-core';
