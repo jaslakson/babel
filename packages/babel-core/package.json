@@ -32,7 +32,7 @@
     "babel-template": "^6.16.0",
     "babel-runtime": "^6.20.0",
     "babel-register": "^6.18.0",
-    "babel-traverse": "^6.21.0",
+    "babel-traverse": "https://github.com/jaslakson/babel.git#7ed17c80ed2e84b9e461a2f3355fe358300955a3",
     "babel-types": "^6.21.0",
     "babylon": "^6.11.0",
     "convert-source-map": "^1.1.0",
